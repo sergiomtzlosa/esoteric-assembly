@@ -2,3 +2,4 @@
 befunge-assembly/befunge
 brainfuck-assembly/brainfuck
 ook-assembly/ook
+*.o
